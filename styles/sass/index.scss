@@ -1,0 +1,10 @@
+@use "componentes_ventanas";
+@use "variables_colors";
+@use "../../node_modules/bulma/bulma.sass";
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
